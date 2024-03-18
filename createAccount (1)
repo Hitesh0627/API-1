@@ -21,6 +21,7 @@ const details = {
   email: 'hitesh0627.be21@chitkara.edu.in',
   rollNumber: 2110990627,
   phone: 9350142139,
+  githublink: 'https://github.com/Hitesh0627/API-1'
 };
 
 
