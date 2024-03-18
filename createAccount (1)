@@ -23,7 +23,5 @@ const details = {
   phone: 9350142139,
 };
 
-// Replace 'your-api-endpoint' with the correct API endpoint provided by Salesforce
-const apiend = 'https://your-api-endpoint.com/services/apexrest/createAccount';
 
 createAccount(apiend, details)
